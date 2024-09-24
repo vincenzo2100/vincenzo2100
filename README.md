@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Library Managment System (Master's Thesis)<br>🌱 I’m currently deepening knowledge about .NET Framework and SSP applications<br>👨‍💻 All of my projects are available at https://github.com/vincenzo2100/<br>😊 Main technologies: .NET and Angular<br>😎 Below technologies I used or/and have some knowledge about them<br>
+🔭 I’m currently working on Library Managment System (Master's Thesis)<br>🌱 I’m currently deepening knowledge about .NET Framework and SPA applications<br>👨‍💻 All of my projects are available at https://github.com/vincenzo2100/<br>😊 Main technologies: .NET and Angular<br>😎 Below technologies I used or/and have some knowledge about them<br>
 
 
 ## 🌐 Socials:
